@@ -1,0 +1,15 @@
+Instructions..
+
+1) Player one moves first. He enters a cell number, between 1-25.
+2) He finds a number - x, hidden in that cell.
+3) Now, the second player moves. He enters a cell number, again between 1-25.
+4) If the number revealed is same as the number revealed by player 1, then player 2 scores. If, he gets a different number, no one scores. If he opens the cell opened by the first player, again, no one scores.
+5) Now, player 1 moves again.
+6) And the game continues.... (until all the numbers are revealed)
+
+
+__--Game Creators--__
+
+1) Aniket
+2) Akshit
+3) Saatwik
