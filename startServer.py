@@ -1,5 +1,6 @@
 import random
 from flask import Flask, redirect, render_template, request
+
 app = Flask(__name__)
 var=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 lis=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
